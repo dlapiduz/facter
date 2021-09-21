@@ -138,3 +138,5 @@ Dir.chdir(ACCEPTANCE_PATH) do
   install_facter
   run_acceptance_tests
 end
+
+puts "Hello world!"
