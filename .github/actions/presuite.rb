@@ -139,4 +139,4 @@ Dir.chdir(ACCEPTANCE_PATH) do
   run_acceptance_tests
 end
 
-
+puts "Hello world!"
